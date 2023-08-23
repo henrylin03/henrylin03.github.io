@@ -1,12 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
 
-/*
-	Strata by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html,
 body,
 div,
@@ -2098,10 +2092,15 @@ input[type="radio"] + label:before {
 
 /* Icon */
 
+.github-icon,
 .icon {
   text-decoration: none;
   border-bottom: none;
   position: relative;
+}
+
+#github-icon {
+  font-size: 1.4em;
 }
 
 .icon:before {
@@ -2660,11 +2659,6 @@ input[type="button"]:disabled,
   cursor: default;
 }
 
-#github-project-icon {
-  display: inline-block;
-  background-image: url(../../images/icons/github.png);
-}
-
 /* Work Item */
 
 .work-item {
@@ -2676,7 +2670,7 @@ input[type="button"]:disabled,
 }
 
 .work-item h3 {
-  font-size: 1em;
+  font-size: 1.2em;
   margin: 0 0 0.5em 0;
 }
 
