@@ -2308,6 +2308,22 @@ ul.icons li .icon:before {
   font-size: 1.5em;
 }
 
+/* Icons for Tech Stack */
+.icons-tech-stack {
+  list-style: none;
+  display: flex;
+  justify-content: start; /* This will distribute your icons evenly across the width */
+}
+
+.icons-tech-stack li {
+  flex-grow: 1; /* This will ensure that each list item grows to take up the available space evenly */
+}
+
+.icons-tech-stack img {
+  height: 40px; /* Sets the height of your icons to 50px */
+  width: 40px; /* Sets the width of your icons to 50px */
+}
+
 /* Labeled Icons */
 
 ul.labeled-icons {
