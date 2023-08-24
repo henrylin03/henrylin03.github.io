@@ -199,13 +199,13 @@ a {
   -webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
   -ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-  color: #49bf9d;
+  color: #00a7ff;
   text-decoration: none;
 }
 
 a:hover {
   border-bottom-color: transparent;
-  color: #49bf9d !important;
+  color: #00a7ff !important;
   text-decoration: none;
 }
 
@@ -1855,7 +1855,7 @@ article.special {
 }
 
 header p {
-  color: #b2b2b2;
+  color: darkgrey;
   position: relative;
   margin: 0 0 1.5em 0;
 }
@@ -1935,7 +1935,7 @@ input[type="password"]:focus,
 input[type="email"]:focus,
 select:focus,
 textarea:focus {
-  border-color: #49bf9d;
+  border-color: #00628f;
 }
 
 select {
@@ -2040,7 +2040,7 @@ input[type="radio"]:checked + label:before {
 
 input[type="checkbox"]:focus + label:before,
 input[type="radio"]:focus + label:before {
-  border-color: #49bf9d;
+  border-color: #00a7ff;
 }
 
 input[type="checkbox"] + label:before {
@@ -2588,8 +2588,8 @@ input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover,
 .button:hover {
-  border-color: #49bf9d;
-  color: #49bf9d !important;
+  border-color: #00a7ff;
+  color: #00a7ff !important;
 }
 
 input[type="submit"]:active,
@@ -2597,8 +2597,8 @@ input[type="reset"]:active,
 input[type="button"]:active,
 .button:active {
   background-color: rgba(73, 191, 157, 0.1);
-  border-color: #49bf9d;
-  color: #49bf9d !important;
+  border-color: #00a7ff;
+  color: #00a7ff !important;
 }
 
 input[type="submit"].icon,
@@ -2641,8 +2641,8 @@ input[type="submit"].primary,
 input[type="reset"].primary,
 input[type="button"].primary,
 .button.primary {
-  background-color: #49bf9d;
-  border-color: #49bf9d;
+  background-color: #00a7ff;
+  border-color: #00a7ff;
   color: #ffffff !important;
 }
 
@@ -2650,16 +2650,16 @@ input[type="submit"].primary:hover,
 input[type="reset"].primary:hover,
 input[type="button"].primary:hover,
 .button.primary:hover {
-  background-color: #5cc6a7;
-  border-color: #5cc6a7;
+  background-color: #00d7ff;
+  border-color: #00d7ff;
 }
 
 input[type="submit"].primary:active,
 input[type="reset"].primary:active,
 input[type="button"].primary:active,
 .button.primary:active {
-  background-color: #3eb08f;
-  border-color: #3eb08f;
+  background-color: #00d7ff;
+  border-color: #00d7ff;
 }
 
 input[type="submit"].disabled,
