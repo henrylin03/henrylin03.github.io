@@ -2301,19 +2301,34 @@ ul.icons li .icon:before {
 }
 
 /* Icons for Tech Stack */
-.icons-tech-stack {
+#one .icons-tech-stack,
+#two .icons-tech-stack {
   list-style: none;
   display: flex;
   justify-content: start; /* This will distribute your icons evenly across the width */
 }
 
-.icons-tech-stack li {
-  flex-grow: 1; /* This will ensure that each list item grows to take up the available space evenly */
+#two .icons-tech-stack {
+  width: 30%;
+  align-items: left;
+  padding: 0;
+  margin: 0;
 }
 
-.icons-tech-stack img {
-  height: 40px; /* Sets the height of your icons to 50px */
-  width: 40px; /* Sets the width of your icons to 50px */
+#one .icons-tech-stack li,
+#two .icons-tech-stack li {
+  flex-grow: 1; /* This will ensure that each list item grows to take up the available space evenly */
+  padding-left: 0;
+}
+
+#one .icons-tech-stack img {
+  height: 40px;
+  width: 40px;
+}
+
+#two .icons-tech-stack img {
+  height: 25px;
+  width: 25px;
 }
 
 /* Labeled Icons */
