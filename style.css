@@ -31,19 +31,18 @@ hgroup {
     margin-top: 50px;
 }
 
-h1,
-h2 {
-    color: #c3bfbf;
+h1 {
     font-family: "Tenor Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.8);
 }
 
 .hero span {
-    color: #949090;
+    color: rgba(148, 144, 144, 0.8);
     display: block;
 }
 
 .hero p {
-    color: #c3bfbf;
+    color: #949090;
     font-family: Lato, sans-serif;
     line-height: 30px;
     margin-top: 5px;
@@ -56,5 +55,7 @@ a {
 }
 
 h2 {
+    font-family: "Tenor Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.8);
     font-size: 20px;
 }
