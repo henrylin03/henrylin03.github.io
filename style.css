@@ -8,17 +8,21 @@
 
 body {
     background-color: #071330;
+    width: 50vw;
+    margin: 0 auto;
 }
 
 header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 50vw;
-    margin: 0 auto;
     padding: 70px 0;
     font-family: "Tenor Sans", sans-serif;
     font-size: 30px;
+}
+
+main {
+    color: #efe9e9;
 }
 
 a {
