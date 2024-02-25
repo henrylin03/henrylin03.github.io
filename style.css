@@ -24,15 +24,15 @@ header {
 hgroup {
     font-family: "Tenor Sans", sans-serif;
     font-size: 40px;
-    display: block;
 }
 
 h1 {
     color: #efe9e9;
 }
 
-.subheading {
-    color: #d4cfc8;
+.hero span {
+    color: darkgrey;
+    display: inline-block;
 }
 
 .self-introduction-expanded {
