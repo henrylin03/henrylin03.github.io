@@ -109,5 +109,10 @@ h2 {
     flex: 3;
 }
 
+.right :hover {
+    color: #BBC4C2;
+}
+
 /* TODO: implement responsive design for skills and contact section */
 /* TODO: light/dark mode of site */
+/* TODO: maybe mandarin version too... */
