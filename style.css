@@ -21,6 +21,10 @@ header {
     font-size: 20px;
 }
 
+.hero {
+    width: 70%;
+}
+
 hgroup {
     font-family: "Tenor Sans", sans-serif;
     font-size: 30px;
