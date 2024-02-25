@@ -12,7 +12,9 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 500px;
+    width: 50vw;
+    margin: 0 auto;
+    padding: 20px 0;
 }
 
 a {
