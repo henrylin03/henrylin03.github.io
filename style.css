@@ -8,7 +8,8 @@
 
 body {
     background-color: #140005;
-    width: 33vw;
+    max-width: 40rem;
+    padding: 1.5rem;
     margin: 0 auto;
 }
 
@@ -108,3 +109,4 @@ h2 {
 }
 
 /* TODO: implement responsive design for skills and contact section */
+/* TODO: light/dark mode of site */
