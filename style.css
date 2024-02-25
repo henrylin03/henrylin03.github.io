@@ -94,6 +94,12 @@ h2 {
 .row {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    width: 50%;
+}
+
+.row .left {
+    flex: 1;
+}
+
+.row .right {
+    flex: 3;
 }
