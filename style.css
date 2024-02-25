@@ -21,7 +21,15 @@ header {
     font-size: 30px;
 }
 
-main {
+h1 {
+    color: #efe9e9;
+}
+
+hgroup p {
+    color: #d4cfc8;
+}
+
+.self-introduction-expanded {
     color: #efe9e9;
 }
 
