@@ -8,6 +8,12 @@ body {
     background-color: #071330;
 }
 
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 a {
     text-decoration: none;
     color: white;
