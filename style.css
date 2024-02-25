@@ -67,10 +67,12 @@ h2 {
 
 .skills article {
     margin: 50px 0;
-    width: 90%;
+    min-width: 90%;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
 }
 
 .icon-container {
@@ -104,3 +106,5 @@ h2 {
 .row .right {
     flex: 3;
 }
+
+/* TODO: implement responsive design for skills and contact section */
