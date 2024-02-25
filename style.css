@@ -23,7 +23,7 @@ header {
 
 hgroup {
     font-family: "Tenor Sans", sans-serif;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 h1 {
@@ -37,6 +37,7 @@ h1 {
 
 .hero p {
     color: #efe9e9;
+    font-family: Lato, sans-serif;
 }
 
 a {
