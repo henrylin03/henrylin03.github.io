@@ -27,16 +27,16 @@ hgroup {
 }
 
 h1 {
-    color: #efe9e9;
+    color: #C3CEDA;
 }
 
 .hero span {
-    color: darkgrey;
+    color: #738FA7;
     display: block;
 }
 
 .hero p {
-    color: #efe9e9;
+    color: #C3CEDA;
     font-family: Lato, sans-serif;
     line-height: 1.5rem;
     margin: 15px 0;
@@ -44,5 +44,5 @@ h1 {
 
 a {
     text-decoration: none;
-    color: #efe9e9;
+    color: #C3CEDA;
 }
