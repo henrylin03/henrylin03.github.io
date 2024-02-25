@@ -21,11 +21,17 @@ header {
     font-size: 30px;
 }
 
+hgroup {
+    font-family: "Tenor Sans", sans-serif;
+    font-size: 40px;
+    display: block;
+}
+
 h1 {
     color: #efe9e9;
 }
 
-hgroup p {
+.subheading {
     color: #d4cfc8;
 }
 
