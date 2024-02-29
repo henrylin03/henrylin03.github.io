@@ -38,9 +38,8 @@ h1 {
     color: rgba(255, 255, 255, 0.8);
 }
 
-.hero span {
+.subheading {
     color: rgba(148, 144, 144, 0.8);
-    display: block;
 }
 
 .hero p {
