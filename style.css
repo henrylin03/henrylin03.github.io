@@ -35,11 +35,12 @@ hgroup {
 
 h1 {
     font-family: "Tenor Sans", sans-serif;
-    color: rgba(255, 255, 255, 0.8);
+    color: #c3bfbf;
 }
 
-.subheading {
-    color: rgba(148, 144, 144, 0.9);
+.hero span {
+    color: #949090;
+    display: block;
 }
 
 .hero p {
