@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Sacramento&family=Tenor+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Tenor+Sans&display=swap');
 
 * {
     margin: 0;
@@ -35,21 +35,15 @@ hgroup {
 
 h1 {
     font-family: "Tenor Sans", sans-serif;
-    color: rgb(209, 209, 209);
+    color: rgba(255, 255, 255, 0.8);
 }
 
-.hero .name {
-    font-family: Sacramento, sans-serif;
-    font-size: 100px;
-    font-weight: 350;
-}
-
-.hero .subheading {
+.subheading {
     color: rgba(148, 144, 144, 0.9);
 }
 
 .hero p {
-    color: rgba(148, 144, 144);
+    color: #949090;
     font-family: Lato, sans-serif;
     line-height: 30px;
     margin-top: 5px;
