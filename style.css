@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Tenor+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Sacramento&family=Tenor+Sans&display=swap');
 
 * {
     margin: 0;
@@ -39,11 +39,11 @@ h1 {
 }
 
 .subheading {
-    color: rgba(148, 144, 144, 0.8);
+    color: rgba(148, 144, 144, 0.9);
 }
 
 .hero p {
-    color: #949090;
+    color: rgba(148, 144, 144);
     font-family: Lato, sans-serif;
     line-height: 30px;
     margin-top: 5px;
