@@ -35,10 +35,16 @@ hgroup {
 
 h1 {
     font-family: "Tenor Sans", sans-serif;
-    color: rgba(255, 255, 255, 0.8);
+    color: rgb(209, 209, 209);
 }
 
-.subheading {
+.hero .name {
+    font-family: Sacramento, sans-serif;
+    font-size: 100px;
+    font-weight: 350;
+}
+
+.hero .subheading {
     color: rgba(148, 144, 144, 0.9);
 }
 
