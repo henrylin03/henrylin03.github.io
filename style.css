@@ -115,7 +115,7 @@ section {
     gap: 40px;
 }
 
-.contact .table {
+#contact .table {
     gap: 15px;
 }
 
@@ -125,7 +125,7 @@ section {
     gap: 3px;
 }
 
-.contact .row {
+#contact .row {
     align-items: center;
     flex-wrap: wrap;
 }
