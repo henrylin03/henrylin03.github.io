@@ -117,11 +117,12 @@ section {
     flex-wrap: wrap;
 }
 
-.right :hover {
+a:hover {
     color: whitesmoke;
 }
 
 .employer {
+    color: #c3bfbf;
     font-family: "Tenor Sans", sans-serif;
     font-size: 18px;
     font-weight: bold;
@@ -131,6 +132,10 @@ section {
     font-family: "Tenor Sans", sans-serif;
     font-size: 14px;
     color: #949090;
+}
+
+.description {
+    color: #b8b5b5;
 }
 
 /* TODO: light/dark mode of site */
