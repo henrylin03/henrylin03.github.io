@@ -101,20 +101,36 @@ section {
 
 .row {
     display: flex;
-    align-items: center;
-    flex-wrap: wrap;
 }
 
 .row .left {
     flex: 1;
+    color: #949090;
 }
 
 .row .right {
     flex: 3;
 }
 
+.contact .row {
+    align-items: center;
+    flex-wrap: wrap;
+}
+
 .right :hover {
     color: whitesmoke;
+}
+
+.employer {
+    font-family: "Tenor Sans", sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.job-position {
+    font-family: "Tenor Sans", sans-serif;
+    font-size: 14px;
+    color: #949090;
 }
 
 /* TODO: light/dark mode of site */
