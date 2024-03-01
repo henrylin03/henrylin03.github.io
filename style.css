@@ -150,6 +150,7 @@ a:hover {
 .description {
     color: #b8b5b5;
     font-size: 15px;
+    line-height: 20px;
 }
 
 /* TODO: light/dark mode of site */
