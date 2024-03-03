@@ -82,6 +82,7 @@ a:hover {
     filter: brightness(180%);
 }
 
+/* "Skills" section */
 .skills article {
     min-width: 90%;
     display: flex;
@@ -125,8 +126,7 @@ a:hover {
     flex: 4;
 }
 
-/* "Projects" section */
-
+/* "Experience" section and below */
 .table {
     display: flex;
     flex-direction: column;
