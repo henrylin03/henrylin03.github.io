@@ -75,6 +75,7 @@ hgroup {
 a {
     text-decoration: none;
     color: #3c313d;
+    font-family: "Lato", sans-serif;
 }
 
 a:hover {
@@ -102,6 +103,27 @@ a:hover {
     gap: 30px;
     padding: 1rem 0;
 }
+
+/* "Projects" section */
+.projects-container {
+    display: flex;
+}
+
+.project {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.project .left {
+    flex: 1;
+}
+
+.project .right {
+    flex: 4;
+}
+
+/* "Projects" section */
 
 .table {
     display: flex;
