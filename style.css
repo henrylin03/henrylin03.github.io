@@ -110,6 +110,8 @@ a:hover {
 }
 
 .project {
+    background-color: #d6d4d9;
+    border-radius: 1.5rem;
     display: flex;
     align-items: center;
     width: 100%;
