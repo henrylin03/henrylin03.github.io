@@ -111,17 +111,16 @@ a:hover {
 }
 
 .project {
-    background-color: #e3e0e8;
-    border-radius: 1.5rem;
     display: flex;
     align-items: center;
     width: 100%;
-    padding: 10px 15px;
+    padding: 10px 0;
     gap: 5%;
 }
 
-.project img {
-    width: 10%;
+.project .left {
+    width: 55%;
+    border-radius: 15px
 }
 
 .project .right {
@@ -133,7 +132,11 @@ a:hover {
 .links {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 15%;
+}
+
+.links i {
+    margin-left: 5px;
 }
 
 /* "Experience" section and below */
