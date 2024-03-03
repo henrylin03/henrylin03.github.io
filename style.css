@@ -152,6 +152,7 @@ a:hover {
 
 .row .right {
     flex: 3;
+    margin-top: 5px;
 }
 
 .experience .table {
