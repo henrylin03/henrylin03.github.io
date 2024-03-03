@@ -74,13 +74,15 @@ hgroup {
 
 a {
     text-decoration: none;
-    color: #3c313d;
+    color: #6c6a72;
+    font-family: "Lato", sans-serif;
 }
 
 a:hover {
-    filter: brightness(180%);
+    filter: brightness(70%);
 }
 
+/* "Skills" section */
 .skills article {
     min-width: 90%;
     display: flex;
@@ -103,6 +105,42 @@ a:hover {
     padding: 1rem 0;
 }
 
+/* "Projects" section */
+.projects-container {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.project {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 10px 0;
+    gap: 5%;
+}
+
+.project img {
+    width: 45%;
+    object-fit: cover;
+    border-radius: 15px
+}
+
+.project .right {
+    display: flex;
+    flex-direction: column;
+    gap: 5px
+}
+
+.links {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+/* "Experience" section and below */
 .table {
     display: flex;
     flex-direction: column;
@@ -118,10 +156,11 @@ a:hover {
 
 .row .right {
     flex: 3;
+    margin-top: 5px;
 }
 
 .experience .table {
-    gap: 40px;
+    gap: 25px;
 }
 
 #contact .table {
