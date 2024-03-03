@@ -74,12 +74,12 @@ hgroup {
 
 a {
     text-decoration: none;
-    color: #3c313d;
+    color: #6c6a72;
     font-family: "Lato", sans-serif;
 }
 
 a:hover {
-    filter: brightness(180%);
+    filter: brightness(70%);
 }
 
 /* "Skills" section */
@@ -126,17 +126,14 @@ a:hover {
 .project .right {
     display: flex;
     flex-direction: column;
-    gap: 5px;
+    gap: 5px
 }
 
 .links {
     display: flex;
     align-items: center;
-    gap: 15%;
-}
-
-.links i {
-    margin-left: 5px;
+    gap: 15px;
+    margin-top: 20px;
 }
 
 /* "Experience" section and below */
