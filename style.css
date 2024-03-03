@@ -7,16 +7,46 @@
 }
 
 body {
-    background-color: #140005;
+    background-color: #EBEAEC;
     max-width: 40rem;
     padding: 1.5rem;
     margin: 0 auto;
+}
+
+/* typography */
+h1,
+h2,
+h3 {
+    color: #18141d;
+    font-family: "Tenor Sans", sans-serif;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+p {
+    font-size: 16px;
+    color: #6c6a72;
+    line-height: 25px;
+    font-family: "Lato", sans-serif;
+}
+
+small {
+    font-family: "Tenor Sans", sans-serif;
+    color: #6c6a72;
 }
 
 li {
     list-style: none;
 }
 
+/* sections */
 header {
     display: flex;
     align-items: center;
@@ -28,7 +58,6 @@ header {
 
 section {
     margin: 60px 0;
-    font-family: Lato, sans-serif;
 }
 
 hgroup {
@@ -37,47 +66,29 @@ hgroup {
     margin-top: 50px;
 }
 
-h1 {
-    font-family: "Tenor Sans", sans-serif;
-    color: #c3bfbf;
-}
-
 .hero span {
-    color: #726f6f;
     display: block;
-}
-
-.hero p {
-    color: #949090;
-    font-family: Lato, sans-serif;
-    line-height: 30px;
-    margin-top: 5px;
-    font-size: 18px;
+    color: #6c6a72;
+    margin-bottom: 5px;
 }
 
 a {
     text-decoration: none;
-    color: #c3bfbf;
+    color: #3c313d;
 }
 
-h2 {
-    font-family: "Tenor Sans", sans-serif;
-    color: rgba(255, 255, 255, 0.8);
-    font-size: 20px;
-}
-
-section {
-    color: #c3bfbf;
+a:hover {
+    filter: brightness(180%);
 }
 
 .skills article {
-    margin: 50px 0;
     min-width: 90%;
     display: flex;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 20px;
+    color: #55535b;
 }
 
 .icon-container {
@@ -88,12 +99,7 @@ section {
     padding: 1rem 0;
 }
 
-#contact {
-    color: #c3bfbf;
-}
-
 .table {
-    margin: 30px 0;
     display: flex;
     flex-direction: column;
 }
@@ -104,7 +110,6 @@ section {
 
 .row .left {
     flex: 1;
-    color: #949090;
 }
 
 .row .right {
@@ -130,28 +135,11 @@ section {
     flex-wrap: wrap;
 }
 
-a:hover {
-    color: whitesmoke;
-}
-
-.employer {
-    color: #c3bfbf;
-    font-family: "Tenor Sans", sans-serif;
-    font-weight: bold;
-}
-
 .job-position {
-    font-family: "Tenor Sans", sans-serif;
-    font-size: 14px;
-    color: #949090;
     margin-bottom: 6px;
 }
 
 .description {
-    color: #b8b5b5;
     font-size: 15px;
     line-height: 20px;
 }
-
-/* TODO: light/dark mode of site */
-/* TODO: maybe mandarin version too... */
