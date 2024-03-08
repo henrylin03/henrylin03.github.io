@@ -2,99 +2,97 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="./style.css" rel="stylesheet">
-    <title>Henry Lin's Portfolio</title>
-    <script src="https://kit.fontawesome.com/b4f77f2592.js" crossorigin="anonymous"></script>
-    <link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="./style.css" rel="stylesheet">
+  <title>Henry Lin's Portfolio</title>
+  <script src="https://kit.fontawesome.com/b4f77f2592.js" crossorigin="anonymous"></script>
+  <link rel="apple-touch-icon" sizes="180x180" href="./assets/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon/favicon-16x16.png">
 </head>
 
 <body>
-    <header>
-        <div class="left">
-            <a href="#">HL</a>
+  <header>
+    <div class="left">
+      <a href="#">HL</a>
+    </div>
+    <div class="right">
+      <a href="#contact">Contact</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <hgroup>
+        <h1>Hi, I'm Henry.
+          <span>Junior web developer</span>
+          <span>from Sydney.</span>
+        </h1>
+      </hgroup>
+      <p>I've worked at market-leading organisations, building web apps
+        that have automated
+        thousands of hours of work. Through this, I discovered my passion in beautiful design, and bringing them
+        to life with code.</p>
+    </section>
+
+    <section class="skills">
+      <h2>Skills</h2>
+      <article>
+        <div class="icon-container">
+          <i class="fa-brands fa-html5 fa-2xl"></i>
+          <small>HTML5</small>
         </div>
-        <div class="right">
-            <a href="#contact">Contact</a>
+        <div class="icon-container">
+          <i class="fa-brands fa-css3-alt fa-2xl"></i>
+          <small>CSS3</small>
         </div>
-    </header>
+        <div class="icon-container">
+          <i class="fa-brands fa-js fa-2xl"></i>
+          <small>JavaScript</small>
+        </div>
+        <div class="icon-container">
+          <i class="fa-brands fa-react fa-2xl"></i>
+          <small>React</small>
+        </div>
+        <div class="icon-container">
+          <i class="fa-brands fa-python fa-2xl"></i>
+          <small>Python</small>
+        </div>
+      </article>
+    </section>
 
-    <main>
-        <section class="hero">
-            <hgroup>
-                <h1>Hi, I'm Henry.
-                    <span>Web designer & developer</span>
-                    <span>from Sydney.</span>
-                </h1>
-            </hgroup>
-            <p>I love simple user experiences, and clean code. I've worked at
-                market-leading organisations; designing, implementing, and (sometimes) coding web apps
-                that automated
-                thousands of hours of work. Through this, I discovered my passion in beautiful design, and bringing them
-                to life with code.</p>
-        </section>
+    <section class="projects">
+      <h2>Projects</h2>
+      <div class="projects-container">
 
-        <section class="skills">
-            <h2>Skills</h2>
-            <article>
-                <div class="icon-container">
-                    <i class="fa-brands fa-html5 fa-2xl"></i>
-                    <small>HTML5</small>
-                </div>
-                <div class="icon-container">
-                    <i class="fa-brands fa-css3-alt fa-2xl"></i>
-                    <small>CSS3</small>
-                </div>
-                <div class="icon-container">
-                    <i class="fa-brands fa-js fa-2xl"></i>
-                    <small>JavaScript</small>
-                </div>
-                <div class="icon-container">
-                    <i class="fa-brands fa-react fa-2xl"></i>
-                    <small>React</small>
-                </div>
-                <div class="icon-container">
-                    <i class="fa-brands fa-python fa-2xl"></i>
-                    <small>Python</small>
-                </div>
-            </article>
-        </section>
+        <article class="project">
+          <img src="./assets/huaxia-screenshot.png" alt="screenshot" class="left" />
+          <div class="right">
+            <h3>Huaxia Chinese School</h3>
+            <p>Learn Mandarin from Sydney's leading Chinese school</p>
+            <div class="links">
+              <a class="live" href="https://huaxia.au" target="_blank"><i
+                  class="fa-solid fa-arrow-up-right-from-square fa-lg" alt="live demo link"></i></a>
+            </div>
+          </div>
+        </article>
 
-        <section class="projects">
-            <h2>Projects</h2>
-            <div class="projects-container">
+        <article class="project">
+          <img src="./assets/calculator-screenshot.png" alt="screenshot" class="left">
+          <div class="right">
+            <h3>Calculator</h3>
+            <p>Plus, minus, times and divide</p>
+            <div class="links">
+              <a class="live" href="https://henrylin03.github.io/calculator/" target="_blank"><i
+                  class="fa-solid fa-arrow-up-right-from-square fa-lg" alt="live demo link"></i></a>
+              <a class="github" href="https://github.com/henrylin03/calculator" target="_blank"><i
+                  class="fa-brands fa-github fa-xl" alt="link to GitHub repository, where source code sits"></i></a>
+            </div>
+          </div>
+        </article>
 
-                <article class="project">
-                    <img src="./assets/huaxia-screenshot.png" alt="screenshot" class="left" />
-                    <div class="right">
-                        <h3>Huaxia Chinese School</h3>
-                        <p>Learn Mandarin from Sydney's leading Chinese school</p>
-                        <div class="links">
-                            <a class="live" href="https://huaxia.au" target="_blank"><i
-                                    class="fa-solid fa-arrow-up-right-from-square fa-lg" alt="live demo link"></i></a>
-                        </div>
-                    </div>
-                </article>
-
-                <article class="project">
-                    <img src="./assets/calculator-screenshot.png" alt="screenshot" class="left">
-                    <div class="right">
-                        <h3>Calculator</h3>
-                        <p>Plus, minus, times and divide</p>
-                        <div class="links">
-                            <a class="live" href="https://henrylin03.github.io/calculator/" target="_blank"><i
-                                    class="fa-solid fa-arrow-up-right-from-square fa-lg" alt="live demo link"></i></a>
-                            <a class="github" href="https://github.com/henrylin03/calculator" target="_blank"><i
-                                    class="fa-brands fa-github fa-xl"
-                                    alt="link to GitHub repository, where source code sits"></i></a>
-                        </div>
-                    </div>
-                </article>
-
-                <!-- <article class="project">
+        <!-- <article class="project">
                     <img src="./assets/bjj-screenshot.png" alt="screenshot" class="left" />
                     <div class="right">
                         <h3>BJJ Countdown</h3>
@@ -109,106 +107,104 @@
                     </div>
                 </article> -->
 
-                <article class="project">
-                    <img src="./assets/stoic-quotes-screenshot.png" alt="screenshot" class="left" />
-                    <div class="right">
-                        <h3>Stoic Quotes</h3>
-                        <p>When you seek guidance in the chaos</p>
-                        <div class="links">
-                            <a class="live" href="https://thestoicquotes.netlify.app/" target="_blank"><i
-                                    class="fa-solid fa-arrow-up-right-from-square fa-lg" alt="live demo link"></i></a>
-                            <a class="github" href="https://github.com/henrylin03/bjj-countdown" target="_blank"><i
-                                    class="fa-brands fa-github fa-xl"
-                                    alt="link to GitHub repository, where source code sits"></i></a>
-                        </div>
-                    </div>
-                </article>
-
+        <article class="project">
+          <img src="./assets/stoic-quotes-screenshot.png" alt="screenshot" class="left" />
+          <div class="right">
+            <h3>Stoic Quotes</h3>
+            <p>When you seek guidance in the chaos</p>
+            <div class="links">
+              <a class="live" href="https://thestoicquotes.netlify.app/" target="_blank"><i
+                  class="fa-solid fa-arrow-up-right-from-square fa-lg" alt="live demo link"></i></a>
+              <a class="github" href="https://github.com/henrylin03/bjj-countdown" target="_blank"><i
+                  class="fa-brands fa-github fa-xl" alt="link to GitHub repository, where source code sits"></i></a>
             </div>
-        </section>
+          </div>
+        </article>
 
-        <section class="experience">
-            <h2>Experience</h2>
-            <article class="table">
+      </div>
+    </section>
 
-                <div class="row">
-                    <p class="left">2023 - present</p>
-                    <ul class="right">
-                        <h3 class="employer">Huaxia Chinese Culture School</h3>
-                        <li class="job-position">
-                            <small>Web Developer</small>
-                        </li>
-                        <li class="description">
-                            <p>Designed and developed English-version website for local Chinese school.</p>
-                        </li>
-                    </ul>
-                </div>
+    <section class="experience">
+      <h2>Experience</h2>
+      <article class="table">
 
-                <div class="row">
-                    <p class="left">2021 - present</p>
-                    <ul class="right">
-                        <h3 class="employer">Commonwealth Bank of Australia</h3>
-                        <li class="job-position">
-                            <small>Senior Business Analyst / UX Designer</small>
-                        </li>
-                        <li class="description">
-                            <p> Refactored Python scripts for Cyber - 10x'd execution speeds while reducing linecount by
-                                66%. UI/UX redesign of identity & access management application.
-                        </li>
-                    </ul>
-                </div>
-                <div class="row">
-                    <p class="left">2020 - 2021</p>
-                    <ul class="right">
-                        <h3 class="employer">Telstra</h3>
-                        <li class="job-position">
-                            <small>Legal Transformation Specialist</small>
-                        </li>
-                        <li class="description">
-                            <p>Built low-code web apps that saved 6,000+ hours per year for <br />
-                                in-house legal.</p>
-                        </li>
-                    </ul>
-                </div>
-                <div class="row">
-                    <p class="left">2020</p>
-                    <ul class="right">
-                        <h3 class="employer">Association of Corporate Counsel</h3>
-                        <li class="job-position">
-                            <small>Web Designer</small>
-                        </li>
-                        <li class="description">
-                            <p>Designed professional interest group website.</p>
-                        </li>
-                    </ul>
-                </div>
-            </article>
-        </section>
+        <div class="row">
+          <p class="left">2023 - present</p>
+          <ul class="right">
+            <h3 class="employer">Huaxia Chinese Culture School</h3>
+            <li class="job-position">
+              <small>Web Developer</small>
+            </li>
+            <li class="description">
+              <p>Designed and developed English-version website for local Chinese school.</p>
+            </li>
+          </ul>
+        </div>
 
-        <section id="contact">
-            <h2>Contact</h2>
-            <article class="table">
-                <div class="row">
-                    <p class="left">Email</p>
-                    <p class="right">
-                        <a href="mailto:henrylin03@outlook.com">henrylin03@outlook.com</a>
-                    </p>
-                </div>
-                <div class="row">
-                    <p class="left">GitHub</p>
-                    <p class="right">
-                        <a href="https://github.com/henrylin03/" target="_blank">git/henrylin03</a>
-                    </p>
-                </div>
-                <div class="row">
-                    <p class="left">LinkedIn</p>
-                    <p class="right">
-                        <a href="https://www.linkedin.com/in/henrylin03/" target="_blank">in/henrylin03</a>
-                    </p>
-                </div>
-            </article>
-        </section>
-    </main>
+        <div class="row">
+          <p class="left">2021 - present</p>
+          <ul class="right">
+            <h3 class="employer">Commonwealth Bank of Australia</h3>
+            <li class="job-position">
+              <small>Senior Business Analyst / UX Designer</small>
+            </li>
+            <li class="description">
+              <p> Refactored Python scripts for Cyber - 10x'd execution speeds while reducing linecount by
+                66%. UI/UX redesign of identity & access management application.
+            </li>
+          </ul>
+        </div>
+        <div class="row">
+          <p class="left">2020 - 2021</p>
+          <ul class="right">
+            <h3 class="employer">Telstra</h3>
+            <li class="job-position">
+              <small>Legal Transformation Specialist</small>
+            </li>
+            <li class="description">
+              <p>Developed no-code web apps that saved 6,000+ hours per year for in-house legal.</p>
+            </li>
+          </ul>
+        </div>
+        <div class="row">
+          <p class="left">2020</p>
+          <ul class="right">
+            <h3 class="employer">Association of Corporate Counsel</h3>
+            <li class="job-position">
+              <small>Web Designer</small>
+            </li>
+            <li class="description">
+              <p>Designed professional interest group website.</p>
+            </li>
+          </ul>
+        </div>
+      </article>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <article class="table">
+        <div class="row">
+          <p class="left">Email</p>
+          <p class="right">
+            <a href="mailto:henrylin03@outlook.com">henrylin03@outlook.com</a>
+          </p>
+        </div>
+        <div class="row">
+          <p class="left">GitHub</p>
+          <p class="right">
+            <a href="https://github.com/henrylin03/" target="_blank">git/henrylin03</a>
+          </p>
+        </div>
+        <div class="row">
+          <p class="left">LinkedIn</p>
+          <p class="right">
+            <a href="https://www.linkedin.com/in/henrylin03/" target="_blank">in/henrylin03</a>
+          </p>
+        </div>
+      </article>
+    </section>
+  </main>
 </body>
 
 </html>

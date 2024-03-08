@@ -66,6 +66,10 @@ hgroup {
     margin-top: 50px;
 }
 
+.hero p {
+    margin-top: 15px;
+}
+
 .hero span {
     display: block;
     color: #6c6a72;
@@ -76,7 +80,7 @@ a {
     text-decoration: none;
     color: #6c6a72;
     font-family: "Lato", sans-serif;
-    background-image: linear-gradient(hsl(255, 4%, 65%) 0 0);
+    background-image: linear-gradient(hsl(255, 4%, 50%) 0 0);
     background-position: bottom left;
     background-size: 0 2px;
     background-repeat: no-repeat;
