@@ -119,38 +119,9 @@ a:hover {
 }
 
 /* "Projects" section */
-.projects-container {
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
-}
-
-.project {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    width: 100%;
-    padding: 10px 0;
-    gap: 5%;
-}
-
 .project img {
-    width: 45%;
-    object-fit: cover;
-    border-radius: 15px
-}
-
-.project .right {
-    display: flex;
-    flex-direction: column;
-    gap: 5px
-}
-
-.links {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    margin-top: 20px;
+    width: 80%;
+    border-radius: 20px;
 }
 
 /* "Experience" section and below */
