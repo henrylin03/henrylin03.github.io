@@ -125,7 +125,7 @@ header a:hover,
 
 .icon-container svg {
     width: 45px;
-    color: var(--clr-primary);
+    color: var(--clr-accent);
 }
 
 .icon-container p {
