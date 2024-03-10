@@ -123,6 +123,10 @@ header a:hover,
     padding: 1rem 0;
 }
 
+.icon-container img {
+    width: 45px;
+}
+
 /* "Projects" section */
 .projects-container {
     display: flex;
