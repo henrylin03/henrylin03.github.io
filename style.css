@@ -125,7 +125,7 @@ header a:hover,
 
 .icon-container svg {
     width: 45px;
-    stroke-width: 1.5;
+    color: var(--clr-primary);
 }
 
 /* "Projects" section */
