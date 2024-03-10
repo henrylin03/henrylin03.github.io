@@ -128,6 +128,11 @@ header a:hover,
     color: var(--clr-primary);
 }
 
+.icon-container p {
+    color: var(--clr-primary)
+}
+
+
 /* "Projects" section */
 .projects-container {
     display: flex;
