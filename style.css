@@ -150,8 +150,7 @@ header a:hover,
 .project img {
     width: 100%;
     border-radius: 20px;
-    filter:
-        saturate(85%) brightness(95%);
+    filter: saturate(85%) brightness(95%);
     transition: filter .3s ease-in-out;
     cursor: pointer;
 }
