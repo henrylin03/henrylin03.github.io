@@ -85,10 +85,10 @@ hgroup {
 }
 
 header a,
+.project-link,
 #contact a {
     text-decoration: none;
     color: var(--clr-primary);
-    font-family: "Lato", sans-serif;
     background-image: linear-gradient(var(--clr-accent) 0 0);
     background-position: bottom left;
     background-size: 0 2px;
@@ -100,6 +100,7 @@ header a,
 }
 
 header a:hover,
+.project-link:hover,
 #contact a:hover {
     background-position: bottom right;
     background-size: 100% 2px;
