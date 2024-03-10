@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Tenor+Sans&display=swap');
 
+:root {
+    --clr-primary: #004E98;
+    --clr-primary-lighter: hsla(209, 85%, 35%, 0.7);
+    --clr-light: #f5faff;
+    --clr-accent: #ff6700;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +14,7 @@
 }
 
 body {
-    background-color: #EBEAEC;
+    background-color: var(--clr-light);
     max-width: 40rem;
     padding: 1.5rem;
     margin: 0 auto;
@@ -17,7 +24,7 @@ body {
 h1,
 h2,
 h3 {
-    color: #18141d;
+    color: var(--clr-primary);
     font-family: "Tenor Sans", sans-serif;
 }
 
@@ -32,14 +39,14 @@ h3 {
 
 p {
     font-size: 16px;
-    color: #6c6a72;
+    color: var(--clr-primary-lighter);
     line-height: 28px;
     font-family: "Lato", sans-serif;
 }
 
 small {
     font-family: "Tenor Sans", sans-serif;
-    color: #6c6a72;
+    color: var(--clr-primary-lighter);
 }
 
 li {
@@ -72,7 +79,7 @@ hgroup {
 
 .hero span {
     display: block;
-    color: #6c6a72;
+    color: var(--clr-primary-lighter);
     margin-bottom: 5px;
 }
 
