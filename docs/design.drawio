@@ -1,0 +1,172 @@
+<mxfile host="app.diagrams.net" modified="2024-03-10T07:35:55.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Q9OQx5-_iBmIvIsS-HOq" version="24.0.3" type="device">
+  <diagram name="Page-1" id="yIORkN9jcZRTeg5NVRjF">
+    <mxGraphModel dx="1509" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;hachureGap=4;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="1150" height="2450" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-4" value="Henry&#39;s Portfolio" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1">
+          <mxGeometry x="60" y="12" width="150" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-5" value="https://www..." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-6" value="HL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=22;" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1">
+          <mxGeometry x="210" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-7" value="Contact" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=22;" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1">
+          <mxGeometry x="880" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-8" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;b&gt;Hi, I&#39;m Henry Lin.&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=22;" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1">
+          <mxGeometry x="220" y="310" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-9" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;&lt;font color=&quot;#737373&quot;&gt;An aspiring web developer&lt;br&gt;from Sydney.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=22;" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1">
+          <mxGeometry x="220" y="361" width="760" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-11" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#737373&quot;&gt;I&#39;m a senior business analyst, with a love for clean code and beautiful design. I&#39;ve worked at market-leading companies; designing and implementing web and script automation solutions that have saved thousands of hours of manual work. Through this, I discovered my passion in both simple, beautiful user experiences, and bringing them to life with code.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=22;" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1">
+          <mxGeometry x="220" y="447" width="720" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#404040&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Skills&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=20;" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1">
+          <mxGeometry x="220" y="630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-16" value="" style="group" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1" connectable="0">
+          <mxGeometry x="222.5" y="695" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="o3ChWpmzaz476wpsN4Xm-16" vertex="1">
+          <mxGeometry x="5.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-15" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(115, 115, 115); font-size: 15px; background-color: initial;&quot;&gt;HTML&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=22;" parent="o3ChWpmzaz476wpsN4Xm-16" vertex="1">
+          <mxGeometry x="-7" y="45" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-20" value="" style="group" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1" connectable="0">
+          <mxGeometry x="420" y="695" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="o3ChWpmzaz476wpsN4Xm-20" vertex="1">
+          <mxGeometry x="5.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-22" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#737373&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;JS&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=22;" parent="o3ChWpmzaz476wpsN4Xm-20" vertex="1">
+          <mxGeometry x="-7" y="45" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-23" value="" style="group" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1" connectable="0">
+          <mxGeometry x="520" y="695" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-24" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="o3ChWpmzaz476wpsN4Xm-23" vertex="1">
+          <mxGeometry x="5.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-25" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#737373&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;React&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=22;" parent="o3ChWpmzaz476wpsN4Xm-23" vertex="1">
+          <mxGeometry x="-7" y="45" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-27" value="" style="group" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1" connectable="0">
+          <mxGeometry x="620" y="695" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="o3ChWpmzaz476wpsN4Xm-27" vertex="1">
+          <mxGeometry x="5.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-29" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#737373&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Gatsby&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=22;" parent="o3ChWpmzaz476wpsN4Xm-27" vertex="1">
+          <mxGeometry x="-7" y="45" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#404040&quot;&gt;&lt;b&gt;Projects&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=20;" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1">
+          <mxGeometry x="220" y="810" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-32" value="" style="group" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1" connectable="0">
+          <mxGeometry x="720" y="695" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="o3ChWpmzaz476wpsN4Xm-32" vertex="1">
+          <mxGeometry x="5.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-34" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#737373&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Python&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=22;" parent="o3ChWpmzaz476wpsN4Xm-32" vertex="1">
+          <mxGeometry x="-7" y="45" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-86" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#404040&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Experience&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=20;" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1">
+          <mxGeometry x="232" y="1650" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-100" value="" style="group" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1" connectable="0">
+          <mxGeometry x="232" y="1700" width="717.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-88" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#737373&quot; style=&quot;font-size: 15px;&quot;&gt;2021 - present&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=20;shadow=0;" parent="o3ChWpmzaz476wpsN4Xm-100" vertex="1">
+          <mxGeometry width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-89" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(8, 8, 8); font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Commonwealth Bank of Australia&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font color=&quot;#737373&quot;&gt;Senior Business Analyst / UX Designer&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;UX redesign of the web app senior employees use to manage identity and access. UI/UX design of automation tools, like web forms and reporting dashboards, that supported this. Coded Python scripts to automate manual tasks like transforming and visualising data, and converting/manipulating files to manage access.&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=20;shadow=0;" parent="o3ChWpmzaz476wpsN4Xm-100" vertex="1">
+          <mxGeometry x="177.5" y="60" width="540" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-101" value="" style="group" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1" connectable="0">
+          <mxGeometry x="227.25" y="1880" width="717.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-103" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(8, 8, 8); font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Telstra&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font color=&quot;#737373&quot;&gt;Business Analyst / Legal Transformation Specialist&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Developing in no-code / low-code platforms, helped automate over 6,000 hours of work per year for one of the largest in-house legal departments in Australia.&amp;nbsp;&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=20;shadow=0;" parent="o3ChWpmzaz476wpsN4Xm-101" vertex="1">
+          <mxGeometry x="182.75" y="30" width="540" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-102" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#737373&quot; style=&quot;font-size: 15px;&quot;&gt;2020 - 2021&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=20;shadow=0;" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1">
+          <mxGeometry x="232" y="1880" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-104" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#404040&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Contact&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=20;" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1">
+          <mxGeometry x="232" y="2033" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-107" value="" style="group" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1" connectable="0">
+          <mxGeometry x="232" y="2070" width="378" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-105" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#737373&quot; style=&quot;font-size: 15px;&quot;&gt;Email&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=20;shadow=0;" parent="o3ChWpmzaz476wpsN4Xm-107" vertex="1">
+          <mxGeometry width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-106" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#737373&quot; style=&quot;font-size: 15px;&quot;&gt;henrylin03@outlook.com&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=20;shadow=0;" parent="o3ChWpmzaz476wpsN4Xm-107" vertex="1">
+          <mxGeometry x="178" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-111" value="" style="group" parent="o3ChWpmzaz476wpsN4Xm-3" vertex="1" connectable="0">
+          <mxGeometry x="231" y="2180" width="378" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-112" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#737373&quot; style=&quot;font-size: 15px;&quot;&gt;LinkedIn&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=20;shadow=0;" parent="o3ChWpmzaz476wpsN4Xm-111" vertex="1">
+          <mxGeometry width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-113" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#737373&quot; style=&quot;font-size: 15px;&quot;&gt;in/henrylin03&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=20;shadow=0;" parent="o3ChWpmzaz476wpsN4Xm-111" vertex="1">
+          <mxGeometry x="178" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jFvxyKLH-cEDMb2Llll7-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#b85450;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;" vertex="1" parent="o3ChWpmzaz476wpsN4Xm-3">
+          <mxGeometry x="220" y="920" width="700" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jFvxyKLH-cEDMb2Llll7-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#d79b00;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#ffe6cc;" vertex="1" parent="o3ChWpmzaz476wpsN4Xm-3">
+          <mxGeometry x="200" y="1250" width="289" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jFvxyKLH-cEDMb2Llll7-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#B09500;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#e3c800;fontColor=#000000;" vertex="1" parent="o3ChWpmzaz476wpsN4Xm-3">
+          <mxGeometry x="200" y="1421" width="289" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jFvxyKLH-cEDMb2Llll7-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#404040&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Huaxia Chinese School&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#404040&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Learn Mandarin at Sydney&#39;s leading Chinese School&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=17;" vertex="1" parent="o3ChWpmzaz476wpsN4Xm-3">
+          <mxGeometry x="220" y="860" width="470" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-17" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="330" y="705" width="60" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="o3ChWpmzaz476wpsN4Xm-17" vertex="1">
+          <mxGeometry x="5.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-19" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#737373&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;CSS&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=22;" parent="o3ChWpmzaz476wpsN4Xm-17" vertex="1">
+          <mxGeometry x="-7" y="45" width="60" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="https://www.justinchi.me/" link="https://www.justinchi.me/" id="o3ChWpmzaz476wpsN4Xm-83">
+          <mxCell style="text;whiteSpace=wrap;" parent="1" vertex="1">
+            <mxGeometry x="1490" y="290" width="160" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://alexjpate.com/" link="https://alexjpate.com/" id="o3ChWpmzaz476wpsN4Xm-84">
+          <mxCell style="text;whiteSpace=wrap;" parent="1" vertex="1">
+            <mxGeometry x="1490" y="340" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="https://nick.computer/" link="https://nick.computer/" id="o3ChWpmzaz476wpsN4Xm-85">
+          <mxCell style="text;whiteSpace=wrap;" parent="1" vertex="1">
+            <mxGeometry x="1490" y="394" width="150" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-108" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="240" y="2130" width="378" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-109" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#737373&quot; style=&quot;font-size: 15px;&quot;&gt;GitHub&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=20;shadow=0;" parent="o3ChWpmzaz476wpsN4Xm-108" vertex="1">
+          <mxGeometry width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3ChWpmzaz476wpsN4Xm-110" value="&lt;font style=&quot;&quot;&gt;&lt;font color=&quot;#737373&quot; style=&quot;font-size: 15px;&quot;&gt;git/henrylin03&lt;/font&gt;&lt;br style=&quot;&quot;&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Montserrat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DMontserrat;fontSize=20;shadow=0;" parent="o3ChWpmzaz476wpsN4Xm-108" vertex="1">
+          <mxGeometry x="178" width="200" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
