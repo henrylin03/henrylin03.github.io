@@ -2,7 +2,7 @@
 
 :root {
     --clr-primary: #004E98;
-    --clr-primary-lighter: hsla(209, 100%, 32%, 0.7);
+    --clr-primary-lighter: hsla(209, 100%, 32%, 0.95);
     --clr-light: hsl(210, 100%, 100%);
     --clr-accent: #ff6700;
 }
