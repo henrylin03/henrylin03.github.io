@@ -154,8 +154,8 @@ header a:hover,
 }
 
 .project-screenshot-container {
+    border-radius: 20px;
     position: relative;
-    overflow: hidden;
     cursor: pointer;
 }
 
@@ -172,6 +172,7 @@ header a:hover,
     opacity: 40%;
     visibility: visible;
     transition: opacity .4s, visibility .4s;
+    overflow: hidden;
 }
 
 .project-screenshot-container:hover::before {
@@ -179,8 +180,6 @@ header a:hover,
     visibility: hidden;
     transition: opacity .4s, visibility .4s;
 }
-
-
 
 /* "Experience" section and below */
 .table {
