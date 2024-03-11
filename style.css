@@ -79,7 +79,7 @@ hgroup {
     margin-bottom: 5px;
 }
 
-a:not(figure a) {
+.link-underlined {
     text-decoration: none;
     color: var(--clr-primary);
     background-image: linear-gradient(var(--clr-accent) 0 0);
@@ -87,12 +87,12 @@ a:not(figure a) {
     background-size: 0 2px;
     background-repeat: no-repeat;
     transition:
-        background-size 0.5s,
-        background-position 0s 0.5s;
+        background-size 0.4s,
+        background-position 0s 0.4s;
     padding-bottom: 8px;
 }
 
-a:not(figure a):hover {
+.link-underlined:hover {
     background-position: bottom right;
     background-size: 100% 2px;
 }
