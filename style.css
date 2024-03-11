@@ -185,7 +185,6 @@ hgroup {
 
 .row .right {
     flex: 4;
-    margin-top: 5px;
     gap: 6px;
 }
 
@@ -198,6 +197,7 @@ hgroup {
     display: flex;
     flex-direction: column;
     gap: 3px;
+    margin-top: 5px;
 }
 
 .job-position {
