@@ -45,11 +45,6 @@ p {
     font-family: "Lato", sans-serif;
 }
 
-small {
-    font-family: "Tenor Sans", sans-serif;
-    color: var(--clr-primary-lighter);
-}
-
 li {
     list-style: none;
 }
@@ -151,16 +146,37 @@ header a:hover,
 .project img {
     width: 100%;
     border-radius: 20px;
-    filter: saturate(90%) brightness(95%);
-    transition: filter .3s ease-in-out;
+}
+
+.project-screenshot-container {
+    border-radius: 20px;
+    position: relative;
     cursor: pointer;
 }
 
-.project img:hover {
-    filter: saturate(100%) brightness(102%);
+.project-screenshot-container::before {
+    content: "";
+    background-image: linear-gradient(45deg, var(--clr-primary-lighter), var(--clr-accent) 55%);
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 4px;
+    right: 0;
+    z-index: 1;
+    border-radius: 20px;
+    opacity: 40%;
+    visibility: visible;
+    transition: opacity .4s, visibility .4s;
+    overflow: hidden;
 }
 
-/* "Experience" section and below */
+.project-screenshot-container:hover::before {
+    opacity: 0%;
+    visibility: hidden;
+    transition: opacity .4s, visibility .4s;
+}
+
+/* "Experience" section */
 .table {
     display: flex;
     flex-direction: column;
@@ -184,9 +200,6 @@ header a:hover,
     gap: 25px;
 }
 
-#contact .table {
-    gap: 15px;
-}
 
 .experience .right {
     display: flex;
@@ -194,16 +207,30 @@ header a:hover,
     gap: 3px;
 }
 
-#contact .row {
-    align-items: center;
-    flex-wrap: wrap;
+.employer {
+    color: var(--clr-primary);
+    font-size: 16px;
 }
 
 .job-position {
+    font-family: "Tenor Sans", sans-serif;
+    color: var(--clr-primary-lighter);
     margin-bottom: 6px;
+    font-size: 14px;
 }
 
 .description {
     font-size: 15px;
     line-height: 20px;
+}
+
+/* Contact section */
+#contact .table {
+    gap: 15px;
+}
+
+
+#contact .row {
+    align-items: center;
+    flex-wrap: wrap;
 }
