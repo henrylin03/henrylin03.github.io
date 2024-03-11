@@ -154,13 +154,13 @@ header a:hover,
     border-radius: 20px;
 }
 
-.project figure {
+.project-screenshot-container {
     border-radius: 20px;
     position: relative;
     cursor: pointer;
 }
 
-.project figure::before {
+.project-screenshot-container::before {
     content: "";
     background-image: linear-gradient(var(--clr-accent) 50%, rgba(255, 255, 255, 0.3));
     position: absolute;
@@ -172,6 +172,11 @@ header a:hover,
     z-index: 1;
     border-radius: 20px;
 }
+
+.project-screenshot-container:hover::before {
+    background-image: none;
+}
+
 
 /* "Experience" section and below */
 .table {
