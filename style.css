@@ -79,9 +79,7 @@ hgroup {
     margin-bottom: 5px;
 }
 
-header a,
-.project-link,
-#contact a {
+a:not(.projects-container) {
     text-decoration: none;
     color: var(--clr-primary);
     background-image: linear-gradient(var(--clr-accent) 0 0);
@@ -94,9 +92,7 @@ header a,
     padding-bottom: 8px;
 }
 
-header a:hover,
-.project-link:hover,
-#contact a:hover {
+a:not(.projects-container):hover {
     background-position: bottom right;
     background-size: 100% 2px;
 }
@@ -210,14 +206,14 @@ header a:hover,
 
 .job-position {
     font-family: "Tenor Sans", sans-serif;
-    color: var(--clr-primary-lighter);
-    font-size: 14px;
+    color: var(--clr-accent);
 }
 
 .employer {
     font-family: "Tenor Sans", sans-serif;
     color: var(--clr-primary-lighter);
     margin-bottom: 6px;
+    font-size: 14px;
 }
 
 .description {
