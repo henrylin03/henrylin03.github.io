@@ -150,8 +150,28 @@ header a:hover,
 
 .project img {
     width: 100%;
+    z-index: -1;
     border-radius: 20px;
+}
+
+.project figure {
+    border-radius: 20px;
+    position: relative;
     cursor: pointer;
+}
+
+.project figure::before {
+    content: "";
+    background-image: linear-gradient(var(--clr-primary-lighter),
+            var(--clr-accent) 100%);
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 5px;
+    right: 0;
+    opacity: 50%;
+    z-index: 9;
+    border-radius: 20px;
 }
 
 /* "Experience" section and below */
