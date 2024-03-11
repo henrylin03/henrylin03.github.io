@@ -162,15 +162,14 @@ header a:hover,
 
 .project figure::before {
     content: "";
-    background-image: linear-gradient(var(--clr-primary-lighter),
-            var(--clr-accent) 100%);
+    background-image: linear-gradient(var(--clr-accent) 50%, rgba(255, 255, 255, 0.3));
     position: absolute;
     top: 0;
     left: 0;
-    bottom: 5px;
+    bottom: 0;
     right: 0;
-    opacity: 50%;
-    z-index: 9;
+    opacity: 25%;
+    z-index: 1;
     border-radius: 20px;
 }
 
