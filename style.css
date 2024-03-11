@@ -181,7 +181,7 @@ header a:hover,
     transition: opacity .4s, visibility .4s;
 }
 
-/* "Experience" section and below */
+/* "Experience" section */
 .table {
     display: flex;
     flex-direction: column;
@@ -205,19 +205,11 @@ header a:hover,
     gap: 25px;
 }
 
-#contact .table {
-    gap: 15px;
-}
 
 .experience .right {
     display: flex;
     flex-direction: column;
     gap: 3px;
-}
-
-#contact .row {
-    align-items: center;
-    flex-wrap: wrap;
 }
 
 .job-position {
@@ -227,4 +219,15 @@ header a:hover,
 .description {
     font-size: 15px;
     line-height: 20px;
+}
+
+/* Contact section */
+#contact .table {
+    gap: 15px;
+}
+
+
+#contact .row {
+    align-items: center;
+    flex-wrap: wrap;
 }
