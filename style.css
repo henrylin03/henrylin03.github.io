@@ -2,7 +2,7 @@
 
 :root {
     --clr-primary: #004E98;
-    --clr-primary-lighter: hsla(209, 100%, 32%, 0.95);
+    --clr-primary-lighter: hsla(209, 100%, 32%, 0.94);
     --clr-light: hsl(210, 100%, 100%);
     --clr-accent: #ff6700;
 }
@@ -79,9 +79,7 @@ hgroup {
     margin-bottom: 5px;
 }
 
-header a,
-.project-link,
-#contact a {
+a:not(figure a) {
     text-decoration: none;
     color: var(--clr-primary);
     background-image: linear-gradient(var(--clr-accent) 0 0);
@@ -94,9 +92,7 @@ header a,
     padding-bottom: 8px;
 }
 
-header a:hover,
-.project-link:hover,
-#contact a:hover {
+a:not(figure a):hover {
     background-position: bottom right;
     background-size: 100% 2px;
 }
@@ -194,6 +190,7 @@ header a:hover,
 .row .right {
     flex: 4;
     margin-top: 5px;
+    gap: 6px;
 }
 
 .experience .table {
@@ -207,12 +204,12 @@ header a:hover,
     gap: 3px;
 }
 
-.employer {
-    color: var(--clr-primary);
-    font-size: 16px;
+.job-position {
+    font-family: "Tenor Sans", sans-serif;
+    color: var(--clr-accent);
 }
 
-.job-position {
+.employer {
     font-family: "Tenor Sans", sans-serif;
     color: var(--clr-primary-lighter);
     margin-bottom: 6px;
@@ -220,7 +217,7 @@ header a:hover,
 }
 
 .description {
-    font-size: 15px;
+    font-size: 16px;
     line-height: 20px;
 }
 
