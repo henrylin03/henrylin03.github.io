@@ -69,10 +69,6 @@ hgroup {
     margin-top: 50px;
 }
 
-.hero p {
-    margin-top: 15px;
-}
-
 .hero span {
     display: block;
     color: var(--clr-primary);
