@@ -150,32 +150,36 @@ header a:hover,
 
 .project img {
     width: 100%;
-    z-index: -1;
     border-radius: 20px;
 }
 
 .project-screenshot-container {
-    border-radius: 20px;
     position: relative;
+    overflow: hidden;
     cursor: pointer;
 }
 
 .project-screenshot-container::before {
     content: "";
-    background-image: linear-gradient(var(--clr-accent) 50%, rgba(255, 255, 255, 0.3));
+    background-image: linear-gradient(45deg, var(--clr-primary-lighter), var(--clr-accent) 55%);
     position: absolute;
     top: 0;
     left: 0;
-    bottom: 0;
+    bottom: 4px;
     right: 0;
-    opacity: 25%;
     z-index: 1;
     border-radius: 20px;
+    opacity: 40%;
+    visibility: visible;
+    transition: opacity .4s, visibility .4s;
 }
 
 .project-screenshot-container:hover::before {
-    background-image: none;
+    opacity: 0%;
+    visibility: hidden;
+    transition: opacity .4s, visibility .4s;
 }
+
 
 
 /* "Experience" section and below */
