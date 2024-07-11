@@ -8,6 +8,7 @@ Portfolio to house my latest work and professional experience, written in HTML a
 
 - [Dodonut](https://dodonut.com/blog/minimalist-color-palette-and-typography-in-web-design/) for colour scheme inspirations
 - RedKetchup's [Favicon Generator](https://redketchup.io/favicon-generator)
+- [Tabler Icons](https://tabler.io/icons)
 
 ## Contributing
 
