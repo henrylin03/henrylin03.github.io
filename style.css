@@ -114,6 +114,7 @@ hgroup {
 .icon-container svg {
     width: 45px;
     color: var(--clr-accent);
+    stroke-width: 1.5px;
 }
 
 .icon-container p {
