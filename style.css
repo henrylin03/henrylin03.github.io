@@ -105,7 +105,7 @@ hgroup {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 12px;
+    gap: 8px;
     padding: 1rem 0;
 }
 
