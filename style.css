@@ -41,7 +41,7 @@ h3 {
 p {
     font-size: min(16px, 3.6vw);
     color: var(--clr-primary-lighter);
-    line-height: 2rem;
+    line-height: min(2rem, 150%);
     font-family: "Lato", sans-serif;
 }
 
