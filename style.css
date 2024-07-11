@@ -41,7 +41,7 @@ h3 {
 p {
     font-size: 16px;
     color: var(--clr-primary-lighter);
-    line-height: 28px;
+    line-height: 2rem;
     font-family: "Lato", sans-serif;
 }
 
@@ -214,7 +214,6 @@ hgroup {
 
 .description {
     font-size: 16px;
-    line-height: 20px;
 }
 
 /* Contact section */
