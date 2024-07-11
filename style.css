@@ -39,9 +39,9 @@ h3 {
 }
 
 p {
-    font-size: 16px;
+    font-size: min(16px, 3.6vw);
     color: var(--clr-primary-lighter);
-    line-height: 28px;
+    line-height: min(2rem, 150%);
     font-family: "Lato", sans-serif;
 }
 
@@ -60,19 +60,19 @@ header {
 }
 
 section {
-    margin: 70px 0;
+    margin: 48px 0;
 }
 
 hgroup {
     font-size: 30px;
-    line-height: 55px;
-    margin-top: 50px;
+    line-height: 3.5rem;
+    margin-top: 44px;
 }
 
 .hero span {
     display: block;
     color: var(--clr-primary);
-    margin-bottom: 5px;
+    margin-bottom: 16px;
 }
 
 .link-underlined {
@@ -95,25 +95,24 @@ hgroup {
 
 /* "Skills" section */
 .skills article {
-    width: 85%;
+    width: min(450px, 100%);
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 10px;
-    padding-right: 20px;
 }
 
 .icon-container {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 12px;
+    gap: 8px;
     padding: 1rem 0;
 }
 
 .icon-container svg {
     width: 45px;
     color: var(--clr-accent);
+    stroke-width: 1.5px;
 }
 
 .icon-container p {
@@ -214,7 +213,6 @@ hgroup {
 
 .description {
     font-size: 16px;
-    line-height: 20px;
 }
 
 /* Contact section */
