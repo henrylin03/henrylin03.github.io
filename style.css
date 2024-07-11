@@ -72,7 +72,7 @@ hgroup {
 .hero span {
     display: block;
     color: var(--clr-primary);
-    margin-bottom: 5px;
+    margin-bottom: 16px;
 }
 
 .link-underlined {
